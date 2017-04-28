@@ -1,0 +1,62 @@
+Aldous Huxley,Brave New World,political,275
+J R R Tolkien,The Lord of the Rings,esoteric,271
+F. Scott Fitzgerald,The Great Gatsby,classic,163
+Daniel Keyes,Flowers For Algernon,inspirational,117
+Tom Clancy,The Hunt for Red October,thriller,398
+Isaac Asimov,Foundation Series, technical,262
+J.K. Rowling, Harry Potter Series, esoteric,468
+Mitch Albom,The Five People You Meet in Heaven, inspirational,469
+Eric Walters, Shattered, thriller,407
+John Wyndham, The Chrysalids, drama,475
+Louis Sachar, Holes, drama,457
+Jodi Picoult, My Sister's Keeper, inspirational,193
+Elizabeth Laird, Kiss the Dust, neurotic,388
+Richard Adams,Watership Down, history,383
+Douglas Adams,The Hitchhiker's Guide To The Galaxy, fiction,246
+Will Hobbs, Far North, history,139
+Harper Lee, To Kill a Mockingbird, classic,387
+John Flanagan, Ranger's Apprentice Series, technical,396
+Jay Asher,Thirteen Reasons Why, drama,405
+William Gibson, Neuromancer, esoteric,265
+Stephenie Meyer, Twilight Series, esoteric,182
+C S Lewis, The Lion the Witch and the Wardrobe, drama,112
+Suzanne Collins, The Hunger Games, thriller,295
+Guy Gavriel Kay, The Summer Tree, classic,389
+Jeff Smith, Bone Series, esoteric,268
+George Orwell, Nineteen Eighty-Four (1984), political,491
+Amy Tan, The Joy Luck Club, drama,169
+Meg Cabot, The Princess Diaries, fiction,299
+William Goldman, The Princess Bride, inspirational,460
+Cornelia Funke, Inkheart, history,236
+Libba Bray,A Great and Terrible Beauty, neurotic,253
+Maya Angelou,I Know Why the Caged Bird Sings, inspirational,365
+Robert Ludlum, The Bourne Series, thriller,437
+Patricia C. Wrede, Dealing with Dragons, esoteric,420
+Lurlene McDaniel, Breathless, inspirational,500
+Art Spiegelman, Maus A Survivor's Tale, inspirational,436
+Patrice Kindl, Owl in Love, nature,400
+Laurie Halse Anderson,Speak, drama,316
+H G Wells, The War Of The Worlds, esoteric,222
+William Golding, Lord of the Flies, esoteric,220
+Philip Pullman, The Golden Compass, inspirational,409
+Yann Martel, Life of Pi, technical,315
+Shueisha, Shonen Jump Series, sports,240
+Tite Kubo, Bleach (graphic novel), neurotic,275
+J R R Tolkien, The Hobbit, esoteric,354
+Christopher Paolini, Eragon, esoteric,184
+Orson Scott Card, Ender's Game, sports,364
+Gary Paulsen, Hatchet, thriller,247
+Alice Hoffman, Practical Magic, esoteric,273
+Ann Brashares,The Sisterhood of the Travelling Pants, drama,306
+Masashi Kishimoto, Naruto, cartoon,390
+James Gurney, Dinotopia A Land Apart from Time, history,283
+Neil Shusterman, The Shadow Club, drama,239
+Garth Nix, Sabriel, drama,216
+Dan Brown, The Da Vinci Code, esoteric,110
+Robert Stevens,Escape from Alcatraz,Fiction,432
+Alex Dumass,The Count of Monte Cristo,non-fiction,532
+Robert Louis Armstrong,Jonas Whale,Fiction,433
+Gone with the wind,Gone with the wind,drama,421
+John Main,Java in 21 days,technical,678
+Juan Ovalle,How to forgive,devotional,141
+Albert Pike,A letter to manzini,esoteric,1
